@@ -1,0 +1,9 @@
+numpy
+pillow
+matplotlib
+trimesh
+pyrender
+open3d
+rembg
+torch
+
